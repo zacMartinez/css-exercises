@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.dark-bold, .bright-yellow {
+    font: 28px "Helvetica", "Times New Roman", sans-serif;
+}
+
+.dark-bold {
+    background: rgb(0,0,0);
+    color: #ffffff;
+}
+
+.bright-yellow {
+    /* background: hsl(79,100,50); */
+    background: yellow;
+}
